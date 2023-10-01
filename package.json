@@ -8,7 +8,7 @@
 
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.5",
-    "@projectwallace/css-analyzer": "^5.11.0",
+    "@projectwallace/css-analyzer": "^5.12.0",
     "all": "0.0.0",
     "axios": "^1.4.0",
     "bcryptjs": "2.4.3",
